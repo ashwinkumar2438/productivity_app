@@ -1,0 +1,8 @@
+//root css variables:
+:root{
+    --header-width:90%;
+}
+
+
+//scss variables:
+$header-width:var(--header-width);
